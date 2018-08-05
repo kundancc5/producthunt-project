@@ -1,0 +1,2 @@
+# producthunt-project
+This is a nice web app developed and designed in django have user authnetication functionality login, logout, create account, register your product and display on home page. In this an added functionality of upvote in which any visitor can upvote if he find the product useful so the visitor have to first login and then navigate through details of project etc. It's also a dummy project for learning purpose.
